@@ -1,0 +1,8 @@
+{
+  "task": "pagination-api",
+  "stack": {
+    "type": "docker"
+  },
+  "configSource": "env",
+  "template": "default"
+}
